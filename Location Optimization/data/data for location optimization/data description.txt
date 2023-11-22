@@ -1,0 +1,21 @@
+Solar Potential
+	Estimated power produced by solar panel.
+
+Landcover
+	Distances from one of undesired landcovers, such as label 10, 20, 50, 80, 90, and 100.
+	Only minimum distance among those 6 is chosen. The ideal case is to maximize distances.
+
+Soil Moisture
+	Volume fraction of water respect to soil.
+
+Soil Texture
+	Distances from one of undesired soil textures, such as label 0, 1, 5, 6, and 9.
+	Only minimum distance among those 5 is chosen. The ideal case is to maximize distances.
+
+Slope
+	Surface angle in degrees
+
+Aspect
+	Surface position with respect to North in degrees. 
+	In this dataset, difference between original aspect and average solar azimuth angle was provided.
+
